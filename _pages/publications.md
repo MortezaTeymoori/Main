@@ -12,7 +12,7 @@ nav: true
 <h1> Peer-Reviewed </h1>
 {% for y in page.paperyears %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f papers -q @article[year={{y}}]* %}
 {% endfor %}
 
 </div>
@@ -22,7 +22,7 @@ nav: true
 <h1> Conferences </h1>
 {% for x in page.Proceedingyears %}
   <h2 class="year">{{x}}</h2>
-  {% bibliography -f proceedings -q @*[year={{x}}]* %}
+  {% bibliography -f papers -q @inproceedings[year={{x}}]* %}
 {% endfor %}
 
 </div>
