@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R&D Engineer in Glakolens
+title: SMA based actuator
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1

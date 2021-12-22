@@ -14,12 +14,13 @@ profile:
       <p>34684 Çengelköy<\p>
       <p>ISTANBUL TURKEY<\p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 I am Biomedical Engineer graduated from University of Isfahan. Later, I joined Bogazici University for my graduate studied. I have a wide background in BME where I tried to explore different aspects of the field before settling in for a specific topic. That gave me a multidiciplinary view. I started research in my undergraduate years with Finite Element Methods (FEM) in Biomechanics. I studied the biomechanics of the atherosclerosis in coronary arteries. I also participated in a Tissue Engineering project where we studied the effects of mechanical loading on the cell differentiation. Later I obtained my MSc. on biomaterials where I worked with shape memory alloys (SMA) and actuators. Now I am a PhD candidate in Bogazici University, Institute of Biomedical Engineering. I work on Metamaterials and their applications in MRI. I am also a R&D engineer in Glakolens startup company.
+
 
 <!---Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

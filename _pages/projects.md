@@ -1,12 +1,13 @@
 ---
 layout: page
-title: projects
+title: #projects #just remove the hashtag in front of "projects" to return the title
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A sellection of the projects I have done and showcase of my skills.
 nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -54,4 +55,4 @@ horizontal: false
 
   {% endif %}
 
-</div>
+</div> -->
