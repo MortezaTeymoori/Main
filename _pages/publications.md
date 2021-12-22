@@ -20,9 +20,9 @@ nav: true
 
 <div class="publications">
 <h1> Conferences </h1>
-{% for y in page.Proceedingyears %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f proceedings -q @*[year={{y}}]* %}
+{% for x in page.Proceedingyears %}
+  <h2 class="year">{{x}}</h2>
+  {% bibliography -f proceedings -q @*[year={{x}}]* %}
 {% endfor %}
 
 </div>
