@@ -30,4 +30,4 @@ I was a TA in University of Isfahan for this course.
 # Tutoring and Freelancing
 I have finished many freelancing jobs over the years.
 
-<img src="/assets/img/Ansys.jpg" alt="UI Logo" style="height: 90px; width:243.9px;"/><img src="/assets/img/adina.png" alt="UI Logo" style="height: 100px; width:326px;"/><img src="/assets/img/matlab.png" alt="UI Logo" style="height: 100px; width:177.77px;"/>
+<img src="/assets/img/Ansys.jpg" alt="UI Logo" style="height: 90px; width:243.9px;"/><img src="/assets/img/adina.png" alt="UI Logo" style="height: 100px; width:326px;"/><img src="/assets/img/Matlab.png" alt="UI Logo" style="height: 100px; width:177.77px;"/>
