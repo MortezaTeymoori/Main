@@ -11,7 +11,7 @@ nav: true
 
 I have been working in Glakolens since November 2019. Glakolens is a startup company that produces a smart contact lens for the IOP measurement. My greatest achievement in Glakolens is the development of the contact lens and the fabrication process which is currently used for the contact lens production.
 
-## Cleanroom Operator at Bogazici University [<img src="/assets/img/LifeSci.jpg" alt="LifeSci Logo" style="height: 57.38px; width:100px;"/>](https://lifesci.boun.edu.tr/en) [<img src="/assets/img/BOUN.PNG" alt="BOUN Logo" style="height: 57.38px; width:57.38px;"/>](http://www.boun.edu.tr/)
+## Cleanroom Operator at Bogazici University [<img src="/assets/img/LifeSci.jpg" alt="LifeSci Logo" style="height: 57.38px; width:100px;"/>](https://lifesci.boun.edu.tr/en) [<img src="/assets/img/BOUN.png" alt="BOUN Logo" style="height: 57.38px; width:57.38px;"/>](http://www.boun.edu.tr/)
 **June 2018 - May 2019**
 I was an intern in Bogazici University Center for Life Sciences and Technologies. During this period I acted as the cleanroom operator responsible for the maintenance of the current clean room equipment, Lithography and Microfabrication , PVD sputtering, Stent and Catherther braiding, 3D printing. This internship was so valuable for my career as I obtained a very strong background and confidence in microfabrication techniques and MEMS.
 
