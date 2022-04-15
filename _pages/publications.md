@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: My latest peer-reviewed publications and conferences
-paperyears: [2017 , 2016]
+paperyears: [2022, 2017 , 2016]
 Proceedingyears: [2019, 2016 ,2014, 2012]
 nav: true
 ---
