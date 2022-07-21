@@ -8,11 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-      <p>Bogaziçi University<\p>
-      <p>Institute Of Biomedical Engineering<\p>
-      <p>Kandilli Kampüs<\p>
-      <p>34684 Çengelköy<\p>
-      <p>ISTANBUL TURKEY<\p>
+      <p>Bogaziçi University
+      <p>Institute Of Biomedical Engineering
+      <p>Kandilli Kampüs
+      <p>34684 Çengelköy
+      <p>ISTANBUL TURKEY
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
